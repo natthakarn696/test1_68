@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main ()
 {
-    int i,count =5 ,num,sum;
+    int i,count =8 ,num,sum;
     float av=0;
     for ( i = 1; i <= count; i++)
     {
